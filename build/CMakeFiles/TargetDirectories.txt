@@ -1,0 +1,3 @@
+/Users/ericriles/Documents/PersonalProj/simpleGraphics/build/CMakeFiles/hello_window.dir
+/Users/ericriles/Documents/PersonalProj/simpleGraphics/build/CMakeFiles/edit_cache.dir
+/Users/ericriles/Documents/PersonalProj/simpleGraphics/build/CMakeFiles/rebuild_cache.dir
